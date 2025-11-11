@@ -1,0 +1,13 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+.env
+appsettings.Development.json
+appsettings.Local.json
+/Build/
+/Publish/
+*.exe
+*.dll
+*.pdb
